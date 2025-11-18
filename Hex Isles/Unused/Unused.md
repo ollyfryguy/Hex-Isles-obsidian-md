@@ -1,0 +1,1 @@
+Mainly notes that I have written which either no longer fit in the story (but I feel bad deleting them-) or notes from inital Hex Isles that I havent removed yet (and no longer need).

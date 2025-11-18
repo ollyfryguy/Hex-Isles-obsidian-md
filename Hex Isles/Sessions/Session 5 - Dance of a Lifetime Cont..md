@@ -1,0 +1,1 @@
+Basically just combat. When they wiped the floor with the enemies I put down normally, I added a Janni as an extra enemy. Tigoon dragged them into the air and slammed them to the ground, ending the fight climatically.

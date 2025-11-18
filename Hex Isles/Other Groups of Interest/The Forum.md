@@ -1,0 +1,1 @@
+Summary: A group opposed to [[The Planar Archives]] way of thinking. They think knowledge should be freely distributed opposed to securely given to parties.

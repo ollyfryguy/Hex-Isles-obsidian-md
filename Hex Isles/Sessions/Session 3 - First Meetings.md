@@ -1,0 +1,1 @@
+DIdnt have time to write a plan for this session but it went swimmingly. They went to [[Sector A, Drop Off Point]], [[Sector B, Distortion Palace]], [[Sector C, Crawlers]], [[Sector D, Diviners]], and [[Sector F, The Falling City]], meeting for the first time [[Dain Aetos]], [[Haspoth Tec]], [[Vix Leitner]], and [[Poskol Morr]].
