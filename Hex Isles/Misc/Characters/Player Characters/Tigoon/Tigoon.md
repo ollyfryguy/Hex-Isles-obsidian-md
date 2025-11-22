@@ -1,5 +1,7 @@
 Played by Dashel. Kobold. Got sent to Hex Isles after buying bombs for his dad and getting arrested.
 
+Faction: [[Unclaimed]].
+
 ### Notes:
 Always refers to [[Elizabeth|his mom]] as "mother".
 Refers to his Eidolon as "Titan", and treats it as a seperate entity, despite it not being such,

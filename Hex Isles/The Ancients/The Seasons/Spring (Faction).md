@@ -27,5 +27,5 @@ Are you certain? Would you like to stay and find out?
 
 #Ancients 
 
-Payment: Art
+Payment: Art, meaning creativity expressed through some medium.
 Punishment: Loss of Bodily Autonomy

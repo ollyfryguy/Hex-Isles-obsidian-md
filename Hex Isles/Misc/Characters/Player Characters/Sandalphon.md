@@ -1,5 +1,7 @@
 Cash's character. An angel in disguise, formerly a guard of [[Chariot Tyr|Chariot]].
 
+Part of [[The Ancients]]
+
 Notes:
 Made a deal with [[Aster]] for "combat art" (gladiators alike) in return for divination
 

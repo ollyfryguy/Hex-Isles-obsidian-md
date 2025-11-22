@@ -4,7 +4,7 @@ aliases:
 ---
 Group/Faction/Controlling Entity of [[The Seasons]]. Resides in [[The Ancients|The Ancient's]] territory.
 
-Language Rule: Rhyme in conversation. This, like most Houses, applies only when prompted. In "casual" conversation, it does not apply, though its common.
+Language Rule: Rhyme in conversation. ~~This, like most Houses, applies only when prompted. In "casual" conversation, it does not apply, though its common.~~ This only applies when speaking directly to them. Speaking to other party members in audible range does not trigger. It also only applies to the initial reply, not any talking afterwards.
 
 Example text:
 SILVER
