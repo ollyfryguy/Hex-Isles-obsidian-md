@@ -1,0 +1,1 @@
+[[Page]] starts the campaign as non-sentient. However, due to the nature of her construction, this slowly changes throughout the campaign, with Page occasionally voicing her own opinions.

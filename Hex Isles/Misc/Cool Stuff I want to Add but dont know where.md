@@ -1,1 +1,0 @@
-"[[Leofric]] you forget your place. You have not survived due to strength, nor faith, nor skill. You have survived due to luck and circumstance *time* and *time* again. How did it feel? To know [[Sir Conrad Black, The Dragon Kin|Sir Conrad]] died protecting you? That he bled out on the cold, stone floor, and in his last moments of life knowing he died **because of you.**"

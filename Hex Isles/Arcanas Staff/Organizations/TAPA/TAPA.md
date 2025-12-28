@@ -1,5 +1,0 @@
-Independent agency, not tied to any specific [[Sectors (Arcanas Staff)|sector]]. Head building is located in [[Vix Leitner]]'s [[Sector D, Diviners|sector]], and was previously located in [[Starkeep]]
-
-Standing for the Telecommunications and Postal Administration, this organization is the main way of communication within Arcana's Staffs settlements. It is government run, supervised by [[Vix Leitner]]. Direct communication is heavily monitored, and letters/written messages are examined before being sent out. This is not known by the public, and any messages found in violation of The Council's rulings are conspicuously lost or destroyed in some manner. Also controls [[The Daily Report]], [[Arcanas Staff|Arcana's Staffs]] main newspaper. During the beginning of [[The Council]]s fear collection, topics regarding an uptick in nightmares would be sent to [[The Daily Report]], though would be rejected on the basis of not being interesting nor widespread enough. This is a deliberate attempt at hiding this information by [[The Council]].
-
-#Arcanas_Staff 

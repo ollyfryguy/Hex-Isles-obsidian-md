@@ -1,1 +1,0 @@
-The party, after arriving in the canyon by the [[Summer (Faction)|Summers]] 
