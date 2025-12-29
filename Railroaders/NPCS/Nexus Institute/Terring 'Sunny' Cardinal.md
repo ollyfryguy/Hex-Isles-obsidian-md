@@ -1,0 +1,1 @@
+Main security guard of [[Nexus Institute]]. Human. Has the ability to transport himself and others through shadows, comprising his main form of attacking.

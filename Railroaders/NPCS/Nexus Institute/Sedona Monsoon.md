@@ -1,0 +1,1 @@
+A 40 year old human woman, with seemingly permanent eye bags. She looks like she hasn't slept in a few days. She's wearing a lab coat, buttoned up and ironed, with a blue pin on the right side, with a stylized potion bottle.

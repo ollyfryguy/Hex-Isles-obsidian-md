@@ -1,0 +1,1 @@
+The group of adventurers who first enter a given [[Dimension]] and catalogue its properties.

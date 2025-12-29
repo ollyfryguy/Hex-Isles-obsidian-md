@@ -1,0 +1,1 @@
+Brief of the [[Dimension]]'s general description, along with any criteria or attributes pertinent to the Adjusters.

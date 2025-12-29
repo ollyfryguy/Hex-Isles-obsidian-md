@@ -1,0 +1,12 @@
+- The Forge - Workroom of [[Arsa Null]].
+- Personal Rooms
+	- [[Rhali - PR]] - Rhali's personal room; also her workroom.
+	- [[Arsa Null - PR]]
+- Communications Office - Run by [[Lizzie Hexam]]
+- Cafeteria
+- Research Lab -
+- Psychology Office - [[Semince Perix]]
+- Meeting Room
+- General Purpose Church
+- Portal Room
+- Hospital

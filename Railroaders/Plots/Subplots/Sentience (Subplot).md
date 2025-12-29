@@ -1,0 +1,1 @@
+[[Page]] pretends she isn't sentience out of fear of being unable to do her task anymore. Shenanigans ensue
