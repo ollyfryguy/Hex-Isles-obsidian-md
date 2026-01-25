@@ -15,7 +15,7 @@ PERSONAL ASSISTANT, GUIDE, AND EXPERT
 
 Dimensions In Range That Have Been Stabilized: #%
 
-Dimension's In Transport Range: #### (Low two thousandish)
+Dimension's In Transport Range: ### (Low 300)
 	Dimension's Stabilized: ## (Initially, high double digit number)
 	Dimension's Unrepairable or Inaccessible: ## (Initially, low double digit number)
 
@@ -42,3 +42,5 @@ __________________________________________________________________________
 __________________________________________________________________________
 ```
 After finishing your question, what you wrote disappears, and a sticker of a green checkmark is glued onto the bottom of the page. 
+
+### 
