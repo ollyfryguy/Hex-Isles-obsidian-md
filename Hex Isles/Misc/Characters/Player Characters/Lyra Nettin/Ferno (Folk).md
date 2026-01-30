@@ -1,4 +1,10 @@
+---
+aliases:
+  - Ferno
+---
 #Ancients 
+
+
 
 Is named Ferno (after the word Inferno) and is a [[Summer (Faction)|Summer]].
 
@@ -16,3 +22,8 @@ The payment a [[Summer (Faction)|Summer]] usually asks for is something that mak
 
 ### Misc:
 ~~As a courtesy, will almost always finish its own rhymes, so that others have an easier time talking to it. You know you've either greatly pissed it off or its exhausted if its not doing so.~~
+
+### Description
+Vaguely feline. Ashen gray, with a set of long ears and tail that seem to flicker in the light, like a fire. 
+
+It was vaguely feline. Ashen gray, much like the ground below, with a set of long ears and tail which seemed to flicker in the light, like a dying ember. It sat patiently, staring into her eye's, its a little too big, with pupils a little too wide.

@@ -5,6 +5,6 @@ The artifact(s) of [[The Ancients]]. Stability is actually a collection of 4 art
 
 **Descriptions (Inside Territory**:
 - SUMMER TO-DO; something collected at the summer equinox.
-- SPRING TO-DO; 
+- SPRING TO-DO; Collected from [[Everything]].
 - A sacrificial dagger from the Fall Halloween event.
 - A deer carcass, collected at the winter solstice. Seems to always have been freshly killed.

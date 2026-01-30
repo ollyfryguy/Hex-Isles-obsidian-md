@@ -11,6 +11,10 @@ After touching a [[Soul Crystal]], [[Tigoon]] absorbs the crystal into his being
 
 With the appropriate amount of concentration (Arcana Check, DC Varies), Tigoon can (currently) see the Souls of people, entering the [[Narrative Space]]. There he can also see the [[Soul Link|connections between souls]], and attempt to (knowingly or unknowingly) abstract them.
 
+Has currently absorbed 6 soul crystals.
+
+Eyes are a greenish emerald.
+
 ### Soul Descriptions
 
 - [[Anyx]]: An orange ball of flame, occasionally flickering.

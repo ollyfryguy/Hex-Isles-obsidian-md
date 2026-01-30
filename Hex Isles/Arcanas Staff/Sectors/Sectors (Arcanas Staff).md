@@ -1,3 +1,9 @@
+---
+aliases:
+  - Sectors
+---
+
+
 [[Arcanas Staff]], roughly 3 years ago, split. Since all members had differing views, while helpful to keep policies fair, made tension high between them. [[Liam Osworth]] (Avatar of [[The Hunt]]) was the first to secede from [[The Council]] and the rest quickly followed suit. Now, [[Arcanas Staff]] is mow split into 9 [[Sectors (Arcanas Staff)|sectors]].
 
 Each sector is cut off from one another through 5 meters of coarse dirt. [[Sector E, Village of Mercenaries]] does not have this dividing line, as it does not consider itself part of [[Arcanas Staff]] no longer.

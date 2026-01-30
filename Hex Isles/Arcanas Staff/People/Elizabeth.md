@@ -16,3 +16,12 @@ Arrival in Hex Isles: During Tigoon's imprisonment, she tried to make a deal wit
 To ensure her own safety, became a [[Fae Folk]] willingly, holding a game show for all new mortal travelers of [[The Ancients]], where'd they'd fight to be the last living party.
 
 Had memory wiped of the party during [[Session 15 - Blasphemy]] by the overseeing [[The Seasons|Higherups]] for punishment, as she was going easy on [[Tigoon]]'s party.
+
+Relevant Notes:
+[[Session 12 - Integration]]
+[[Session 13 - Integration Continued]]
+[[Session 14 - Integration Cont Cont.]]
+[[Session 15 - Blasphemy]]
+[[Session 23 - Double Trouble]]
+[[Session 24 - Fixing Mistakes]]
+
