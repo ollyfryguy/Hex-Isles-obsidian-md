@@ -97,3 +97,6 @@ Initiative
 Stats wise, Tigoon is a Fleshformed Conformer, with three skinskitters (aka tentacles which grow out of the ground). Tigoon's AC lowered to 24. Skinskitter's don't have their Shuddering Skitter reaction.
 
 ![[PFDash Encounters 2026-01-29 23_06_33.pfdashencounters]]
+
+Yellow Dice - [[Espes]]
+Orange Dice - Titan

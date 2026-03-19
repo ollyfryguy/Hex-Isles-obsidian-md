@@ -67,6 +67,11 @@ Initial:
 After Abstraction:
 "You feel the energy shoot out of your hand, almost like electricity. Jarring, certainty, but not painful. There's no visible display of this happening, and after you slowly retract your hand you're wondering if it even did anything. Until you spot on the string, where the color used to shine brightly, a spot of darkness. Pitch black, like ink-- very similar to that spot of your diamond. And after a few moments, the darkness spreads."
 
+### Miscellaneous
+[[Tigoon]] **doesn't** hate [[Espes]]. In [[Session 23 - Double Trouble|Session 23]] he isn't going to [[Espes]] because he was requested to, but because he genuinely wants to make sure they're safe. That's why he left the party's side-- "you guy's are getting distracted by trivial things when one of our friends is in danger-- screw this, I can do this by myself. *Watch me.*"
+
+He's bonded with Espes because of [[Session 15 - Blasphemy|Session 15]]'s incident with Elizabeth. "You have gone through the same trauma I have; I don't have to explain myself to you; "
+
 
 Current Amount of Absorbed Soul Crystals:
 3 during [[Session 17 - Soul Control]].
