@@ -3,6 +3,7 @@ aliases:
   - Fugu
   - Fugoo
 ---
+#Unclaimed 
 Related Notes:
 [[Session 16 - Observed Individuals]]
 

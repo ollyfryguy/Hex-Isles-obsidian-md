@@ -1,4 +1,4 @@
-
+#Ancients 
 Next Up, [[The Ancients]].
 
 "Then its decided! Due to the... conditions of [[The Ancients]] territory, I will be replacing one of my guards with a guide and translator. They have free reign to talk more freely about them, once you guys are out of my territory."

@@ -1,3 +1,4 @@
+#Arcanas_Staff 
 *Last time on Hex Isles:* You all awoke on a small, wooden rowboat. Two guards, a stern Kitsune and a rather meek Leshy, stood and watched you. As they were about to go about their speech, one of your shipmates, a rather young looking Kobold, closed his eyes as his skin quickly morphed and transformed into that of a medium size dragon. It was quickly subdued by the ship's runes, new cuffs were placed onto it, and some small talk proceeded between the Kitsune and Tanuki of the party.
 
 At the start of the session, Ill have all players introduce themselves and their characters. Afterwards, the Kitsune glances over to the Leshy and nods. The Leshy speaks up in a rather timid but firm voice. (Lets see if the players will let me info spill without one of them setting the damn boat on fire).

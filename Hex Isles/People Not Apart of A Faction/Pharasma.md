@@ -2,6 +2,7 @@
 aliases:
   - Lady of Graves
 ---
+#Unclaimed 
 pronounced "fah-RAZ-mah"
 
 The Pathfinder Goddess of the [[Soul]], life (birth and death), and prophecy. Information copied from the pathfinder wiki pages.

@@ -81,3 +81,5 @@ Current Amount of Absorbed Soul Crystals:
 Related Articles:
 [[Session 12 - Integration]]
 [[Session 17 - Soul Control]]
+
+#Unclaimed 

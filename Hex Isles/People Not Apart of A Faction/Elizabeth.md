@@ -3,7 +3,7 @@ aliases:
   - Tigoon's Mom
   - Tigoon's Mother
 ---
-#Ancients 
+#Ancients #Unclaimed 
 
 Personality (B): stern
 Stern, but caring.
@@ -24,4 +24,5 @@ Relevant Notes:
 [[Session 15 - Blasphemy]]
 [[Session 23 - Double Trouble]]
 [[Session 24 - Fixing Mistakes]]
-
+[[Session 25 - Fixing Mistakes Cont]]
+[[Session 26 - Ughhhh]]

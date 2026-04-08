@@ -1,4 +1,5 @@
 9/3/25
+#Ancients 
 
 [[Elizabeth]] is memory wiped of the party after upsetting the High Folk in control of the death game. Party otherwise leaves in one piece. After getting back to [[Arcanas Staff]], they go for a shopping session with the gold they acquired, and choose to go to [[The Planar Archives]] next.
 

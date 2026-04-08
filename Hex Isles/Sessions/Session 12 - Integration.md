@@ -1,3 +1,4 @@
+#Ancients 
 [[Tarot Card Meanings|Tarot Cards For The Day:]]
 	Wheel of fortune, reversed. Start of session and a little bit after the show starts. Symbolizes **Loss of control, a clinging to control, general bad luck**
 	The Moon, reversed. Middle/Early in session, after [[Elizabeth]] realizes [[Tigoon]] is here. Symbolizes confusion, fear, misinterpretation.

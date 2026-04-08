@@ -1,4 +1,7 @@
 #Ancients 
+
+Continuation of [[Session 12 - Integration]]
+
 **[[Tarot Cards]] For The Day:**
 	The Moon: Symbolizes confusion, fear, misinterpretation.
 	The Tower: Symbolizes disaster, sudden upheaval, sudden change, 

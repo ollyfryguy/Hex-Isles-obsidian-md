@@ -9,6 +9,9 @@ Resides primarily in [[The Architects]]. Resembles a mechanoid dragon, with the 
 
 Used in Session(s):
  - [[Session 17 - Soul Control]]
+ - [[Session 18 - Seeing Things]]
+ - [[Session 19 - Preperations]]
+ - [[Session 20 - Choosing Ceremony]]
 
 Statblock is that of a Toliforged Sentinel, with the following changes:
 

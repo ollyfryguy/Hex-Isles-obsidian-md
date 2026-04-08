@@ -1,3 +1,4 @@
+#Arcanas_Staff #Architects #Ancients #Planar_Archives 
 HAHA YOU FORGOT TO TRANSFER THE FCKING FILES.
 
 Noah is 12, V-1 is 26, Addie is nat 20, Tigoon 21 Cash is 17. Hunters is 12.; all plans went to hell they went to sector E.

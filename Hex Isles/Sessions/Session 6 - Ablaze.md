@@ -1,3 +1,4 @@
+#Arcanas_Staff 
 Massive curtains envelop the audience, separating the stands from the rest of the party. 2 people come out in standard medical uniform, carrying out the Janni on a stretcher. [[Roskinov Entreal]] teleports down (magically), thanking them for their fabulous show. As he's speaking he gets cut off by a scroll appearing in his hands. They quickly read it, before it crumbles to ash. "Unfortunate; was starting to like him." The party sees as our other robotic friend's life leaves his eyes abruptly, as he collapses to the ground. Tigoon, please meet with me outside.
 
 Just for Tigoon: All creatures have magic in them, with spellcasters being able to harness that magic to cast. When he drops dead, you see that magic disappear, like it was being drained out of him until nothing else remains. 

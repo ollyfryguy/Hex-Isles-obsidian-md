@@ -3,8 +3,11 @@ A set of floating islands, which serves as the only major [[Unclaimed]] friendly
 Description:
 "The first thing you notice is that the are seems set in permanent fall. The leaves on the various trees are amber and gold, and most of the general architecture is set in those kinda brown, earthy tones. Its not overly aggressive, but its certainly noticeable. Overall, It kinda feels like how [[Sector A, Drop Off Point|the Drop Off Point]] feels, but there's a lot less hustle and bustle. Calmer.
 
-Members:
-[[Monasteel Kacee]].
+Members/Residents
+- [[Monasteel Kacee]]
+- [[Tigoon]]
+- [[Elizabeth]]
+
 
 Common Visitors:
 [[Poskol Morr]], avatar of [[The Vast]] and leader of [[Sector F, The Falling City]].

@@ -1,3 +1,4 @@
+#Arcanas_Staff 
 [[Poskol Morr|Poskol]] offers them an overnight stay. As each person wakes up, they see a small, neatly folded letter, addressed to their characters from [[Vix Leitner|Vix]].
 
 "Morning, [Character Name]. Just wanted to congratulate you all on making it through your first real day of the island. You'll be heading to [[Sector G, The Staff's Auditorium]] today, so I'd just like to warn you that they tend to be... eccentric, I suppose. I'd recommend sharpening your weapons."
